@@ -1,0 +1,32 @@
+.slider {
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.slider_image {
+  height: 400px;
+  width: 100%;
+  background-size: contain;
+}
+.slider_action {
+  position: absolute;
+  top: 45%;
+  left: 8%;
+}
+.slider_container {
+  background: #82828287;
+  color: #ffffff;
+
+  text-transform: uppercase;
+  display: table;
+}
+.slider_first_title {
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.slider_second_title {
+  font-size: 50px;
+  font-weight: 300;
+  margin-top: 10px;
+}

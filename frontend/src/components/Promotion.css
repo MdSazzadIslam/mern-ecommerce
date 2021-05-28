@@ -1,0 +1,27 @@
+.promotion {
+  position: relative;
+
+  padding-bottom: 30px;
+}
+.promotion_img {
+  height: 200px;
+  width: 100%;
+}
+.promotion_first_title {
+  font-size: 70px;
+  font-weight: 700;
+  margin: 10px auto;
+}
+.promotion_second_title {
+  font-size: 50px;
+  font-weight: 300;
+  margin-top: 10px;
+  margin: 0 auto;
+}
+.promotion_container {
+  background: #82828287;
+  color: #ffffff;
+  padding: 0px 20px;
+  text-transform: uppercase;
+  display: table;
+}
