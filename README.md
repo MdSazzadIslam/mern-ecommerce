@@ -1,9 +1,10 @@
+
 # mern-ecommerce
 A MERN stack e-commerce app
 FEATURES
 
 ![Features](https://user-images.githubusercontent.com/63356649/120010770-5810e500-bfff-11eb-8130-4ae74baa7f47.JPG)
-
+![Tech](https://user-images.githubusercontent.com/63356649/120010851-7545b380-bfff-11eb-800e-7457ba84d538.JPG)
 
 This application is deployed on Netlify. Please check it out https://ecommerce-bd.netlify.app
 
