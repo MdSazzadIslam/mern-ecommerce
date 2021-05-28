@@ -2,24 +2,8 @@
 A MERN stack e-commerce app
 FEATURES
 
-	Product Banner and Slider
-	Product reviews and rating
-	Account verification using OAuth 2.0
-	Token based authentication
-	User profile with orders
-	Save items into cart and remove items from the cart
-	Increment and decrement quantity in the cart
-	Display total bill of the cart and update it as soon as the cart is used by the user
-	Order Summary
+![Features](https://user-images.githubusercontent.com/63356649/120010770-5810e500-bfff-11eb-8130-4ae74baa7f47.JPG)
 
-
-Tech
-	React.js
-	Node.js
-	Express.js
-	MongoDB Atlas
-	React Bootstrap
-	Redux
 
 This application is deployed on Netlify. Please check it out https://ecommerce-bd.netlify.app
 
