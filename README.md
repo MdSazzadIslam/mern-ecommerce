@@ -1,6 +1,7 @@
 
 # mern-ecommerce
 A MERN stack e-commerce app
+email : netsazzad@gmail.com and password : 12345678
 FEATURES
 
 ![Features](https://user-images.githubusercontent.com/63356649/120010770-5810e500-bfff-11eb-8130-4ae74baa7f47.JPG)
