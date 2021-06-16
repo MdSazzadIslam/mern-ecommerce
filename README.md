@@ -4,7 +4,7 @@
 A MERN stack e-commerce app
 [Login -> email : netsazzad@gmail.com and password : 12345678]
 
-Don't forget to give this repo a ⭐ if you like this repo and want to appreciate my efforts
+Don't forget to give this repo a ⭐ if you like and want to appreciate my efforts
 
 FEATURES
 
