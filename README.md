@@ -22,4 +22,4 @@ Features![Home](https://user-images.githubusercontent.com/63356649/120010296-ca3
 ![About](https://user-images.githubusercontent.com/63356649/120010574-1d0eb180-bfff-11eb-8f57-49f127e929cc.JPG)
 ![Profile](https://user-images.githubusercontent.com/63356649/120010589-21d36580-bfff-11eb-840a-ca7b59d7f55a.JPG)
 
-Don't forget to give this repo a ⭐ if you like this repo and want to appreciate my efforts
+Don't forget to give this repo a ⭐ if you like and want to appreciate my efforts
